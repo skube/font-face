@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'my_font_name';
+    src: url('tt0138m_-webfont.eot');
+    src: url('tt0138m_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('tt0138m_-webfont.woff') format('woff'),
+         url('tt0138m_-webfont.ttf') format('truetype'),
+         url('tt0138m_-webfont.svg#my_font_name') format('svg');
