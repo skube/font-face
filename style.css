@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'my_font_name';
-    src: url('tt0138m_-webfont.eot');
-    src: url('tt0138m_-webfont.eot?#iefix') format('embedded-opentype'),
-         url('tt0138m_-webfont.woff') format('woff'),
-         url('tt0138m_-webfont.ttf') format('truetype'),
-         url('tt0138m_-webfont.svg#my_font_name') format('svg');
+    src: url('webfont.eot'); /* IE9 Compat Modes */
+    src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('webfont.woff') format('woff'), /* Modern Browsers */
+         url('webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('webfont.svg#my_font_name') format('svg');  /* Legacy iOS */
+}
