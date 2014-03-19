@@ -1,8 +1,5 @@
-font-face
-=========
+## font-face
 
 **Bulletproof @font-face**
 
-The (current) standard way of including webfonts for multiple browsers.
-
-
+The ~~standard~~ current way of including webfonts for multiple browsers.
